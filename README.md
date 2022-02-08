@@ -1,1 +1,1 @@
-# timeseries_AWS
+# Building a timeseries forecasting model and deploying it on AWS
