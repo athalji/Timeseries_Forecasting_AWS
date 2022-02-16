@@ -1,1 +1,8 @@
-# Building a timeseries forecasting model and deploying it on AWS
+# Forecasting 4G LTE network capacity on AWS
+
+This project was created as an extension to a project that I worked on with a big mobile operator in the MENA region. the goal of the original project was to create a framework to monitor the capacity of the operator's 4G LTE network to guarantee customer quality of service. The initial analysis broke down the analysis into the following aspects:
+
+1) KPIs to be monitored
+2) At What level of "number of connected users" do these KPIs start going down below a desired quality of service threshold
+
+The main extension to this project is to build a framework to forecast the network capacity (as defined by the previous part above) using AWS
