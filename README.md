@@ -9,7 +9,7 @@ The main extension to this project is to build a framework to forecast the netwo
 
 The breakdown of the project is as follows:
 
-1) Dataset exploration and visualization
-2) Traditional forecasting methods
-3) Deep learning forecasting methods
-4) Data pipeline and forecasting model development on AWS
+1) Dataset exploration and visualization. Notebook:
+2) Traditional forecasting methods. Notebook:
+3) Deep learning forecasting methods. Notebook:
+4) End-toEjnd data pipeline and forecasting model deployment on AWS
