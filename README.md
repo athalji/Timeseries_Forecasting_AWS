@@ -1,4 +1,4 @@
-# Forecasting 4G LTE network capacity on AWS
+# End-to-End 4G LTE network capacity forecasting pipeline on AWS
 
 This project was created as an extension to a project that I worked on with a big mobile operator in the MENA region. the goal of the original project was to create a framework to monitor the capacity of the operator's 4G LTE network to guarantee customer quality of service. The initial analysis broke down the analysis into the following aspects:
 
