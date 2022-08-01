@@ -9,7 +9,7 @@ The main extension to this project is to build a framework to forecast the netwo
 
 The breakdown of the project is as follows:
 
-1) Dataset exploration and visualization. [Notebook:](https://github.com/athalji/timeseries_AWS/blob/main/data_exploration.ipynb) 
+1) Dataset exploration and visualization. [data_exploration.ipynb](https://github.com/athalji/timeseries_AWS/blob/main/data_exploration.ipynb) 
 2) Traditional forecasting methods. Notebook:
 3) Deep learning forecasting methods. Notebook:
 4) End-to-End data pipeline and forecasting model deployment on AWS
