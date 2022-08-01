@@ -13,3 +13,5 @@ The breakdown of the project is as follows:
 2) Traditional forecasting methods. Notebook:
 3) Deep learning forecasting methods. Notebook:
 4) End-to-End data pipeline and forecasting model deployment on AWS
+
+yeah!!
